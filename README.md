@@ -1,30 +1,11 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jaspreet Singh</h1> <h3 align="center">Artificial Intelligence & Machine Learning Student |  Building Real-World AI Solutions</h3>
 
-<img src="./assets/banner.svg" width="100%" alt="Jaspreet Singh banner"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jaspreet-singh369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/12jaspreetsingh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=12jaspreetsingh&style=flat-square&color=38BDF8" />
-
-</div>
-
-<br/>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Computer+Vision+Developer;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems;Always+Learning+🚀" alt="Typing SVG" /> </p>
 ## About
 
 B.E. student in **Artificial Intelligence & Machine Learning** at Thapar Institute of Engineering & Technology, focused on computer vision, geospatial ML, and edge AI deployment. I like turning research ideas into working systems — from physics-aware image translation to satellite-based valuation models.
 
-```text
-const jaspreet = {
-  role:        "AI/ML Student & CV Developer",
-  location:    "Patiala, India",
-  currentlyOn: ["FastAPI", "LLM Engineering", "AI Agents"],
-  funFact:     "160+ LeetCode problems solved, still counting"
-};
-```
+
 
 <br/>
 
@@ -152,8 +133,7 @@ Structured understanding of first-person activity data.
 ## Achievements
 
 🥇 **Winner** — Create & Conquer Hackathon, TIET
-💻 **160+** DSA problems solved on LeetCode
-🎓 Completed **Machine Learning Specialization** — DeepLearning.AI
+
 
 <br/>
 
@@ -163,10 +143,4 @@ Structured understanding of first-person activity data.
 
 <br/>
 
-<div align="center">
 
-*"Building AI that solves real-world problems through innovation, research, and engineering."*
-
-⭐ **If you like my work, consider starring my repositories!**
-
-</div>
