@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaspreet Singh</h1> <h3 align="center">Artificial Intelligence & Machine Learning Student |  Building Real-World AI Solutions</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Computer+Vision+Developer;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems;Always+Learning+🚀" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Computer+Vision+Developer;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems;Always+Learning+🚀" /> </p>
 ## About
 
 B.E. student in **Artificial Intelligence & Machine Learning** at Thapar Institute of Engineering & Technology, focused on computer vision, geospatial ML, and edge AI deployment. I like turning research ideas into working systems — from physics-aware image translation to satellite-based valuation models.
