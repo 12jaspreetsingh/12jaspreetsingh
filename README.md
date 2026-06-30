@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaspreet Singh</h1> <h3 align="center">Artificial Intelligence & Machine Learning Student |  Building Real-World AI Solutions</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Computer+Vision+Developer;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems;Always+Learning+🚀" /> </p>
+
 ## About
 
 B.E. student in **Artificial Intelligence & Machine Learning** at Thapar Institute of Engineering & Technology, focused on computer vision, geospatial ML, and edge AI deployment. I like turning research ideas into working systems — from physics-aware image translation to satellite-based valuation models.
@@ -115,10 +115,6 @@ Structured understanding of first-person activity data.
 
 ## GitHub Activity
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=12jaspreetsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12jaspreetsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=12jaspreetsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8"/>
